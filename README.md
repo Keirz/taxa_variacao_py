@@ -1,0 +1,1 @@
+# taxa_variacao_py
